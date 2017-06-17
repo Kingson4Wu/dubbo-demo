@@ -29,3 +29,14 @@ Dubbo RPC服务框架支持丰富的传输协议、序列化方式等通讯相�
 　　2、传输框架：Netty、Mina、以及基于servlet等方式。
 　　3、序列化方式：Hessian2、dubbo、JSON（fastjson 实现）、JAVA、SOAP 等。
 
+---
+
++ <http://shiyanjun.cn/archives/341.html>
+
++ <https://github.com/alibaba/dubbo> 
++ <http://alibaba.github.io/dubbo-doc-static/Home-zh.htm> 
++ <http://alibaba.github.io/dubbo-doc-static/User+Guide-zh.htm> 
++ <http://alibaba.github.io/dubbo-doc-static/Developer+Guide-zh.htm> 
++ <http://alibaba.github.io/dubbo-doc-static/Administrator+Guide-zh.htm> 
++ <http://alibaba.github.io/dubbo-doc-static/FAQ-zh.htm> 
+
